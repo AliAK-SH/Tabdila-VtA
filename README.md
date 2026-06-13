@@ -11,7 +11,7 @@ A lightweight Android app that converts any video file to high-quality audio (MP
   <em>Select a video → choose format → get your audio in seconds</em>
 </p>
 
-That said, the project is meant to develop into a SaaS app for Iranian audiences. The *process* of this app's *development* can be traced in this rep and the code is temporarily available publicly. 
+That said, the project is meant to develop into a SaaS app for Iranian audiences. The *process* of this app's *development* can be traced in this repo and the code is temporarily available publicly. 
 
 But I digress...
 
