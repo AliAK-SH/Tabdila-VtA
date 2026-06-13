@@ -21,7 +21,7 @@ But I digress...
 - [x] 📁 Convert any video format (MP4, AVI, MKV, MOV, FLV, WMV, 3GP, etc.) to **MP3** or **AAC**
 - [x] 🔒 100% offline – all processing happens on your device
 - [x] ⚡ Fast conversion using native FFmpeg binaries
-- [x]🎚️ Customizable audio bitrate (32 kbps – 320 kbps)
+- [x] 🎚️ Customizable audio bitrate (32 kbps – 320 kbps)
 - [x] 🗂️ Extract audio from multiple videos (batch mode)
 - [x] 📂 Save output files to any folder (internal or external storage)
 - [x] 🔊 Preserve original audio quality with advanced tuning options
@@ -66,5 +66,7 @@ Where:
 - i specifies the input video
 - vn removes the video stream
 - ab sets the audio bitrate
-the output file is encoded as MP3 or AAC
+
+the output file is encoded as MP3 or AAC.
+
 Because FFmpeg runs natively on the device, ***conversions are fast, reliable, and completely private***.
